@@ -1,0 +1,2 @@
+rootProject.name='K2 Camera Rotation'
+include ':app'
